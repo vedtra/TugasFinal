@@ -1,0 +1,15 @@
+.navlists{
+	list-style-type: none;
+	float:left;
+	padding:20px;
+	margin-left:50px;
+}
+.navlists li{
+	width:120px;
+	font-family:sans-serif;
+	font-size: 12px;
+}
+.navlists i{
+	font-size: 12px;
+	color:#76BBE9;
+}
