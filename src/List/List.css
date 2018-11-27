@@ -1,0 +1,53 @@
+.List li{
+float:left;
+list-style-type: none;
+
+margin-left: 2px;
+
+
+}
+.coba li{
+
+	width:130px;
+}
+.cobadua li{
+	width:190px;
+}
+.detail{
+
+	box-sizing: border-box;
+color: rgb(72, 83, 147);
+cursor: pointer;
+font-family: "Open Sans", sans-serif;
+font-size: 12px;
+line-height: 17.15px;
+
+}
+.caret{
+border-left-color: rgba(0, 0, 0, 0);
+border-left-style: solid;
+border-left-width: 4px;
+border-right-color: rgba(0, 0, 0, 0);
+border-right-style: solid;
+border-right-width: 4px;
+border-top-color: rgb(72, 83, 147);
+border-top-style: dashed;
+border-top-width: 4px;
+box-sizing: border-box;
+color: rgb(72, 83, 147);
+cursor: pointer;
+display: inline-block;
+font-family: "Open Sans", sans-serif;
+font-size: 12px;
+height: 4px;
+line-height: 17.15px;
+margin-left: 2px;
+vertical-align: middle;
+width: 8px;}
+
+.details{
+margin-left: -36px;
+width:120px;
+position: left;
+
+}

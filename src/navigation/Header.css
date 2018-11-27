@@ -1,0 +1,27 @@
+.App-header {
+  background-color: #282D49;
+  display: flex;
+  flex-direction: row;
+  height: 80px;
+  
+  
+  color: white;
+}
+
+.logo{
+  margin-left: 100px;
+  margin-top: 20px;
+  list-style-type: none;
+}
+
+.auth{
+  margin-left: 700px;
+  margin-top: 16px;
+  font-size: 18px;
+  padding: 0;  
+}
+.heads li{
+  float:right;
+list-style-type: none;
+
+}
